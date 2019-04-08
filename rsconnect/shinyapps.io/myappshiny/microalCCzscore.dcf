@@ -1,0 +1,12 @@
+name: microalCCzscore
+title: microalCCzscore
+username:
+account: myappshiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 337281
+bundleId: 1355361
+url: https://myappshiny.shinyapps.io/microalCCzscore/
+when: 1525425752.58018
+asMultiple: FALSE
+asStatic: FALSE
