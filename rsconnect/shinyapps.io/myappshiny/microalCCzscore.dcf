@@ -5,8 +5,8 @@ account: myappshiny
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 337281
-bundleId: 1355361
+bundleId: 1997376
 url: https://myappshiny.shinyapps.io/microalCCzscore/
-when: 1525425752.58018
+when: 1554803846.46624
 asMultiple: FALSE
 asStatic: FALSE
