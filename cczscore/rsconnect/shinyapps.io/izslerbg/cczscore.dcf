@@ -1,0 +1,12 @@
+name: cczscore
+title:
+username:
+account: izslerbg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1262199
+bundleId: 2454960
+url: https://izslerbg.shinyapps.io/cczscore/
+when: 1569841564.61218
+asMultiple: FALSE
+asStatic: FALSE
