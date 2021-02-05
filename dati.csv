@@ -1,143 +1,180 @@
-organizzatore;identificativo;nconf;anno;mp;provaaccredita;prova;misurando;operatore;zscore;altrocriterioorg;tipologia;tecnica 
-Lgc Standards Srl; PT-WT-412;261713/2014;2014;MP 01/092;SI;MF (Membrana Filtrante);Escherichia coli;Operatore 1;0.61;;quantitativo;MF
-Lgc Standards Srl; PT-WT-412;261713/2014;2014;MP 01/092;SI;MF (Membrana Filtrante);Escherichia coli;Operatore 2;-0.25;;quantitativo;MF
-Lgc Standards Srl; PT-WT-412;261713/2014;2014;MP 01/092;SI;MF (Membrana Filtrante);Coliformi;Operatore 1;0.42;;quantitativo;MF
-Lgc Standards Srl; PT-WT-412;261713/2014;2014;MP 01/092;SI;MF (Membrana Filtrante);Coliformi;Operatore 2;-0.44;;quantitativo;MF
-Lgc Standards Srl; PT-WT-412;261713/2014;2014;MP 01/093;SI;MF (Membrana Filtrante);Enterococchi;Operatore 1;0;;quantitativo;MF
-Lgc Standards Srl; PT-WT-412;261713/2014;2014;MP 01/093;SI;MF (Membrana Filtrante);Enterococchi;Operatore 2;0.24;;quantitativo;MF
-Lgc Standards Srl; distribuzione 221;229087/2014;2014;MP 01/142;SI;Microbiologica;Bacillus cereus presunto;Operatore 1;0.3;;quantitativo;microgpos
-Lgc Standards Srl; distribuzione 221;229087/2014;2014;MP 01/142;SI;Microbiologica;Bacillus cereus presunto;Operatore 2;-0.42;;quantitativo;microgpos
-Lgc Standards Srl; distribuzione 221;229087/2014;2014;MP 01/089;SI;Microbiologica a 37°C;Stafilococchi coagulasi-positivi;Operatore 1;0.67;;quantitativo;microgpos
-Lgc Standards Srl; distribuzione 221;229087/2014;2014;MP 01/089;SI;Microbiologica a 37°C;Stafilococchi coagulasi-positivi;Operatore 2;1.08;;quantitativo;microgpos
-Lgc Standards Srl; distribuzione 221;229087/2014;2014;MP 01/111;SI;Microbiologica a 37°C;Stafilococchi coagulasi-positivi;Operatore 1;0.77;;quantitativo;microgpos
-Lgc Standards Srl; distribuzione 221;229087/2014;2014;MP 01/111;SI;Microbiologica a 37°C;Stafilococchi coagulasi-positivi;Operatore 2;0.85;;quantitativo;microgpos
-Lgc Standards Srl; distribuzione 221;229078/2014;2014;MP 01/101;SI;Microbiologica;Listeria monocytogenes;Operatore 1;0.38;;quantitativo;microaltri
-Lgc Standards Srl; distribuzione 221;229078/2014;2014;MP 01/101;SI;Microbiologica;Listeria monocytogenes;Operatore 2;0.34;;quantitativo;microaltri
-Lgc Standards Srl; PT-MC 10F;126570/2014;2014;MP 01/145;SI;Microbiologica;Clostridium perfringens;Operatore 1;0.49;;quantitativo;microgpos
-Lgc Standards Srl; PT-MC 10F;126570/2014;2014;MP 01/145;SI;Microbiologica;Clostridium perfringens;Operatore 2;0.24;;quantitativo;microgpos
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/112;SI;Microbiologica a 30°C;Microrganismi;Operatore 1;0.66;;quantitativo;microaltri
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/112;SI;Microbiologica a 30°C;Microrganismi;Operatore 2;1.23;;quantitativo;microaltri
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/110;SI;Microbiologica;Enterobacteriaceae;Operatore 1;-0.6;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/110;SI;Microbiologica;Enterobacteriaceae;Operatore 2;-0.54;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/171;SI;Microbiologica a 37°C;Coliformi;Operatore 1;-0.38;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/171;SI;Microbiologica a 37°C;Coliformi;Operatore 2;-0.08;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/102;SI;Microbiologica;Escherichia coli beta glucuronidasi positivi;Operatore 1;-0.08;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/102;SI;Microbiologica;Escherichia coli beta glucuronidasi positivi;Operatore 2;-0.69;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/006;SI;Microbiologica a 37°C;Carica batterica aerobia mesofila;Operatore 2;0.92;;quantitativo;microaltri
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/006;SI;Microbiologica a 37°C;Carica batterica aerobia mesofila;Operatore 1;0.86;;quantitativo;microaltri
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/028;SI;Microbiologica a 30°C;Coliformi;Operatore 1;-0.49;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/028;SI;Microbiologica a 30°C;Coliformi;Operatore 2;-0.78;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/033;SI;Microbiologica;Escherichia coli;Operatore 1;-0.34;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/033;SI;Microbiologica;Escherichia coli;Operatore 2;-0.96;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/043;SI;Microbiologica;Enterobacteriaceae;Operatore 1;-0.18;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16F;93605/2014;2014;MP 01/043;SI;Microbiologica;Enterobacteriaceae;Operatore 2;-0.46;;quantitativo;microentero
-Lgc Standards Srl; 236;333965/2015;2015;MP 01/054;SI;Microbiologica;Miceti;Operatore 1;1.29;;quantitativo;microaltri
-Lgc Standards Srl; 236;333965/2015;2015;MP 01/054;SI;Microbiologica;Muffe;Operatore 1;1.3;;quantitativo;microaltri
-Lgc Standards Srl; 236;333965/2015;2015;MP 01/054;SI;Microbiologica;Miceti;Operatore 2;1.29;;quantitativo;microaltri
-Lgc Standards Srl; 236;333965/2015;2015;MP 01/054;SI;Microbiologica;Muffe;Operatore 2;1.3;;quantitativo;microaltri
-Izsler Sezione Provinciale Di Bologna;;293268/2015;2015;MP 02/073;SI;Potenziometrico;pH;;-0.24;;quantitativo;phaw
-Izsler Sezione Provinciale Di Bologna;;293268/2015;2015;MP 02/254;SI;Punto di rugiada;Attività dell'acqua (Aw);;-2.16;;quantitativo;phaw
-Izsler Sezione Provinciale Di Bologna;;293263/2015;2015;MP 02/254;SI;Punto di rugiada;Attività dell'acqua (Aw);;-0.5;;quantitativo;phaw
-Izsler Sezione Provinciale Di Bologna;;293263/2015;2015;MP 02/073;SI;Potenziometrico;pH;;0.11;;quantitativo;phaw
-Lgc Standards Srl; 227;180980/2015;2015;MP 01/101;SI;Microbiologica;Listeria monocytogenes;Replica 1;0;;quantitativo;microaltri
-Lgc Standards Srl; 227;180980/2015;2015;MP 01/101;SI;Microbiologica;Listeria monocytogenes;Replica 2;0.28;;quantitativo;microaltri
-Lgc Standards Srl; 227;180980/2015;2015;MP 01/022;SI;MPN;Listeria monocytogenes;;-0.11;;quantitativo;MPN
-Lgc Standards Srl; 227;154473/2015;2015;MP 01/144;SI;Microbiologica;Clostridi anaerobi solfito riduttori (spore);Operatore 1;0.78;;quantitativo;microgpos
-Lgc Standards Srl; 227;154473/2015;2015;MP 01/144;SI;Microbiologica;Clostridi anaerobi solfito riduttori (spore);Operatore 2;0.79;;quantitativo;microgpos
-Lgc Standards Srl; 227;154473/2015;2015;MP 01/144;SI;Microbiologica;Clostridi anaerobi solfito riduttori (spore e forme vegetative);Operatore 1;-2.07;;quantitativo;microgpos
-Lgc Standards Srl; 227;154473/2015;2015;MP 01/144;SI;Microbiologica;Clostridi anaerobi solfito riduttori (spore e forme vegetative);Operatore 2;-1.8;;quantitativo;microgpos
-Lgc Standards Srl; WT6624;123894/2015;2015;MP 01/092;SI;MF (Membrana Filtrante);Coliformi;Operatore 2;0.26;;quantitativo;MF
-Lgc Standards Srl; WT6624;123894/2015;2015;MP 01/092;SI;MF (Membrana Filtrante);Escherichia coli;Operatore 2;0.44;;quantitativo;MF
-Lgc Standards Srl; WT6624;123894/2015;2015;MP 01/092;SI;MF (Membrana Filtrante);Coliformi;Operatore 1;0.08;;quantitativo;MF
-Lgc Standards Srl; WT6624;123894/2015;2015;MP 01/092;SI;MF (Membrana Filtrante);Escherichia coli;Operatore 1;0.26;;quantitativo;MF
-Lgc Standards Srl; WT6624;123894/2015;2015;MP 01/093;SI;MF (Membrana Filtrante);Enterococchi;Operatore 2;0.17;;quantitativo;MF
-Lgc Standards Srl; WT6624;123894/2015;2015;MP 01/093;SI;MF (Membrana Filtrante);Enterococchi;Operatore 1;-0.04;;quantitativo;MF
-Lgc Standards Srl; PT-MC-16D;95120/2015;2015;MP 01/043;SI;Microbiologica;Enterobacteriaceae;;0.6;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16D;95120/2015;2015;MP 01/028;SI;Microbiologica a 37°C;Coliformi;;0.67;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16D;95120/2015;2015;MP 01/033;SI;Microbiologica;Escherichia coli;;0.77;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16D;95120/2015;2015;MP 01/102;SI;Microbiologica;Escherichia coli beta glucuronidasi positivi;;0.67;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16D;95120/2015;2015;MP 01/171;SI;Microbiologica a 37°C;Coliformi;;0.67;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16D;95120/2015;2015;MP 01/110;SI;Microbiologica;Enterobacteriaceae;;0.7;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16D;95120/2015;2015;MP 01/112;SI;Microbiologica a 30°C;Microrganismi;;0.22;;quantitativo;microaltri
-Lgc Standards Srl; PT-MC-16D;95120/2015;2015;MP 01/194;SI;Microbiologica a 30°C;Microrganismi;;0.17;;quantitativo;microaltri
-Lgc Standards Srl; 227;71909/2015;2015;MP 01/111;SI;Microbiologica a 37°C;Stafilococchi coagulasi-positivi;Replica 2;0.43;;quantitativo;microgpos
-Lgc Standards Srl; 227;71909/2015;2015;MP 01/111;SI;Microbiologica a 37°C;Stafilococchi coagulasi-positivi;Operatore 1;0.57;;quantitativo;microgpos
-Lgc Standards Srl; 227;71909/2015;2015;MP 01/111;SI;Microbiologica a 37°C;Stafilococchi coagulasi-positivi;Operatore 2;0.4;;quantitativo;microgpos
-Lgc Standards Srl; 227;71909/2015;2015;MP 01/089;SI;Microbiologica a 37°C;Stafilococchi coagulasi-positivi;Replica 2;0.36;;quantitativo;microgpos
-Lgc Standards Srl; 227;71909/2015;2015;MP 01/089;SI;Microbiologica a 37°C;Stafilococchi coagulasi-positivi;Operatore 1;0.56;;quantitativo;microgpos
-Lgc Standards Srl; 227;71909/2015;2015;MP 01/089;SI;Microbiologica a 37°C;Stafilococchi coagulasi-positivi;Operatore 2;0.36;;quantitativo;microgpos
-Lgc Standards Srl; 227;71909/2015;2015;MP 01/142;SI;Microbiologica;Bacillus cereus presunto;Operatore 1;-0.15;;quantitativo;microgpos
-Lgc Standards Srl; 227;71909/2015;2015;MP 01/142;SI;Microbiologica;Bacillus cereus presunto;Operatore 2;0.16;;quantitativo;microgpos
-Lgc Standards Srl; 227;71909/2015;2015;MP 01/142;SI;Microbiologica;Bacillus cereus presunto;Replica 2;-0.06;;quantitativo;microgpos
-Lgc Standards Srl; PT-MC-10D;193570/2016;2016;MP 01/145;SI;Microbiologica;Clostridium perfringens;;0.33;;quantitativo;microgpos
-Lgc Standards Srl; PT-MC-16F;125978/2016;2016;MP 01/093;SI;MF (Membrana Filtrante);Enterococchi;;-0.42;;quantitativo;MF
-Lgc Standards Srl; PT-MC-16F;125978/2016;2016;MP 01/092;SI;MF (Membrana Filtrante);Coliformi;;-0.17;;quantitativo;MF
-Lgc Standards Srl; PT-MC-16F;125978/2016;2016;MP 01/092;SI;MF (Membrana Filtrante);Escherichia coli;;-0.15;;quantitativo;MF
-Lgc Standards Srl; PT-MC-16F;100209/2016;2016;MP 01/194;SI;Microbiologica a 30°C;Microrganismi;Operatore 1;-0.29;;quantitativo;microaltri
-Lgc Standards Srl; PT-MC-16F;100209/2016;2016;MP 01/110;SI;Microbiologica;Enterobacteriaceae;;0.73;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-16F;100209/2016;2016;MP 01/112;SI;Microbiologica a 30°C;Microrganismi;;0.72;;quantitativo;microaltri
-Lgc Standards Srl; PT-MC-16F;100209/2016;2016;MP 01/171;SI;Microbiologica a 37°C;Coliformi;Operatore 1;0.85;;quantitativo;microentero
-Lgc Standards Srl; PT-MC-17F;89082/2016;2016;MP 01/089;SI;Microbiologica a 37°C;Stafilococchi coagulasi-positivi;Operatore 1;0.66;;quantitativo;microgpos
-Lgc Standards Srl; PT-MC-17F;89082/2016;2016;MP 01/111;SI;Microbiologica a 37°C;Stafilococchi coagulasi-positivi;Operatore 2;0.73;;quantitativo;microgpos
-Lgc Standards Srl; PT-MC-17F;89082/2016;2016;MP 01/142;SI;Microbiologica;Bacillus cereus presunto;Operatore 2;0;;quantitativo;microgpos
-THERMO FISHER DIAGNOSTICS S.P.A.;;339463/2017;2017;MP 01/171;SI;Microbiologica a 37°C;Coliformi;;-0.4;;quantitativo;microentero
-Izsler Sezione Provinciale Di Bologna;;305285/2017;2017;MP 02/073;SI;Potenziometrico;pH;;1.78;;quantitativo;phaw
-Izsler Sezione Provinciale Di Bologna;;305285/2017;2017;MP 02/254;SI;Punto di rugiada;Attività dell'acqua (Aw);;-1.28;;quantitativo;phaw
-IZS ABRUZZO E MOLISE - SEDE;;267043/2017;2017;MP 01/122;NO;Microbiologica;Campylobacter spp. - Conta delle colonie;;0;corretto;;
-IZS ABRUZZO E MOLISE - SEDE;;267043/2017;2017;MP 01/122;NO;Microbiologica;Campylobacter spp. - Conta delle colonie;;0;corretto;;
-IZS ABRUZZO E MOLISE - SEDE;;267043/2017;2017;MP 01/122;NO;Microbiologica;Campylobacter spp. - Conta delle colonie;;-0.21;;quantitativo;microgpos
-IZS ABRUZZO E MOLISE - SEDE;;267043/2017;2017;MP 01/122;NO;Microbiologica;Campylobacter spp. - Conta delle colonie;;-2.26;;quantitativo;microgpos
-IZS ABRUZZO E MOLISE - SEDE;;267043/2017;2017;MP 01/122;NO;Microbiologica;Campylobacter spp. - Conta delle colonie;;-1.08;;quantitativo;microgpos
-IZS ABRUZZO E MOLISE - SEDE;;267043/2017;2017;MP 01/122;NO;Microbiologica;Campylobacter spp. - Conta delle colonie;;-1.93;;quantitativo;microgpos
-IZS ABRUZZO E MOLISE - SEDE;;267043/2017;2017;MP 01/122;NO;Microbiologica;Campylobacter spp. - Conta delle colonie;;-2.09;;quantitativo;microgpos
-IZS ABRUZZO E MOLISE - SEDE;;267043/2017;2017;MP 01/122;NO;Microbiologica;Campylobacter spp. - Conta delle colonie;;-0.48;;quantitativo;microgpos
-IZS ABRUZZO E MOLISE - SEDE;;267043/2017;2017;MP 01/122;NO;Microbiologica;Campylobacter spp. - Conta delle colonie;;-2.32;;quantitativo;microgpos
-IZS ABRUZZO E MOLISE - SEDE;;267043/2017;2017;MP 01/122;NO;Microbiologica;Campylobacter spp. - Conta delle colonie;;0;corretto;;
-IZS ABRUZZO E MOLISE - SEDE;;267043/2017;2017;MP 01/122;NO;Microbiologica;Campylobacter spp. - Conta delle colonie;;0;corretto;;
-IZS ABRUZZO E MOLISE - SEDE;;267043/2017;2017;MP 01/122;NO;Microbiologica;Campylobacter spp. - Conta delle colonie;;0.24;;quantitativo;microgpos
-THERMO FISHER DIAGNOSTICS S.P.A.;;211580/2017;2017;MP 01/142;SI;Microbiologica;Bacillus cereus presunto;;-0.57;;quantitativo;microgpos
-THERMO FISHER DIAGNOSTICS S.P.A.;;211580/2017;2017;MP 01/111;SI;Microbiologica a 37°C;Stafilococchi coagulasi-positivi;;0.21;;quantitativo;microgpos
-THERMO FISHER DIAGNOSTICS S.P.A.;;211580/2017;2017;MP 01/171;SI;Microbiologica a 30°C;Coliformi;;-3.11;;quantitativo;microentero
-THERMO FISHER DIAGNOSTICS S.P.A.;;211580/2017;2017;MP 01/089;SI;Microbiologica a 37°C;Stafilococchi coagulasi-positivi;;-0.07;;quantitativo;microgpos
-THERMO FISHER DIAGNOSTICS S.P.A.;;211580/2017;2017;MP 01/101;SI;Microbiologica;Listeria monocytogenes;;-1.25;;quantitativo;microaltri
-THERMO FISHER DIAGNOSTICS S.P.A.;;161224/2017;2017;MP 01/110;SI;Microbiologica;Enterobacteriaceae;;0.23;;quantitativo;microentero
-THERMO FISHER DIAGNOSTICS S.P.A.;;161224/2017;2017;MP 01/112;SI;Microbiologica a 30°C;Microrganismi;;0.01;;quantitativo;microaltri
-THERMO FISHER DIAGNOSTICS S.P.A.;;161224/2017;2017;MP 01/194;SI;Microbiologica a 30°C;Microrganismi;;-0.08;;quantitativo;microaltri
-THERMO FISHER DIAGNOSTICS S.P.A.;;161224/2017;2017;MP 01/122;;Microbiologica;Campylobacter spp. - Conta delle colonie;;0.77;;quantitativo;microgpos
-THERMO FISHER DIAGNOSTICS S.P.A.;;161208/2017;2017;MP 01/144;SI;Microbiologica;Clostridi anaerobi solfito riduttori (spore e forme vegetative);;0.98;;quantitativo;microgpos
-THERMO FISHER DIAGNOSTICS S.P.A.;;161208/2017;2017;MP 01/144;SI;Microbiologica;Clostridi anaerobi solfito riduttori (spore);;0.52;;quantitativo;microgpos
-PUBLIC HEALTH ENGLAND - PHE; W175;134226/2017;2017;MP 01/092;SI;MF (Membrana Filtrante);Coliformi;;-0.18;;quantitativo;MF
-PUBLIC HEALTH ENGLAND - PHE; W175;134226/2017;2017;MP 01/092;SI;MF (Membrana Filtrante);Escherichia coli;;-0.18;;quantitativo;MF
-PUBLIC HEALTH ENGLAND - PHE; W175;134226/2017;2017;MP 01/093;SI;MF (Membrana Filtrante);Enterococchi;;-0.09;;quantitativo;MF
-PUBLIC HEALTH ENGLAND - PHE; W175;134226/2017;2017;MP 01/091;;Microbiologica a 22°C;Microrganismi;;0.05;;quantitativo;microaltri
-PUBLIC HEALTH ENGLAND - PHE; W175;134226/2017;2017;MP 01/091;;Microbiologica a 36°C;Microrganismi;;0.06;;quantitativo;microaltri
-THERMO FISHER DIAGNOSTICS S.P.A.;;112791/2017;2017;MP 01/145;SI;Microbiologica;Clostridium perfringens;;0;;quantitativo;microgpos
-THERMO FISHER DIAGNOSTICS S.P.A.;;112791/2017;2017;MP 01/102;SI;Microbiologica;Escherichia coli beta glucuronidasi positivi;;-0.3;;quantitativo;microentero
-THERMO FISHER DIAGNOSTICS S.P.A.;;112788/2017;2017;MP 01/054;SI;Microbiologica;Miceti;;1.02;;quantitativo;microaltri
-THERMO FISHER DIAGNOSTICS S.P.A.;;112788/2017;2017;MP 01/054;SI;Microbiologica;Muffe;;1.02;;quantitativo;microaltri
-;;214371/2018;2018;MP 01/111;SI;Microbiologica;Stafilococchi coagulasi-positivi;;-0.1;;quantitativo;
-;;214371/2019;2018;MP 01/101;SI;Microbiologica;Listeria monocytogenes;;0.59;;quantitativo;
-;;214371/2020;2018;MP 01/142;SI;Microbiologica;Bacillus cereus presunto;;-0.45;;quantitativo;
-;;214371/2021;2018;MP 01/171;SI;Microbiologica;Coliformi;;-0.68;;quantitativo;
-;;290084/2018;2018;MP 01/081;SI;Microbiologica;Listeria monocytogenes;;0;;qualitativa;
-;;290084/2018;2018;MP 09/134;SI;Microbiologica;Listeria monocytogenes;;0;;qualitativa-PCR;
-;;156349/2018;2018;MP 01/122;SI;Microbiologica;Campylobacter spp. - Conta delle colonie;;-0.14;;quantitativo;
-;;156349/2018;2018;MP 01/112;SI;Microbiologica;Microrganismi;;0.44;;quantitativo;
-;;156349/2018;2018;MP 01/110;SI;Microbiologica;Enterobacteriaceae;;0.09;;quantitativo;
-;;156349/2018;2018;MP 01/080;SI;Microbiologica;Salmonella ;;0;;qualitativa;
-;;156349/2018;2018;MP 09/133;SI;Microbiologica;Salmonella ;;0;;qualitativa-PCR;
-;;156349/2018;2018;MP 01/113;SI;Microbiologica;Campylobacter spp;;0;;qualitativa;
-;;156349/2018;2018;MP 09/135;SI;Microbiologica;Campylobacter spp;;0;;qualitativa-PCR;
-;;136188/2018;2018;MP 01/091;SI;Microbiologica a 22°C;Microrganismi;;0.03;;quantitativo;
-;;136188/2018;2018;MP 01/091;SI;Microbiologica a 36°C;Microrganismi;;0.5;;quantitativo;
-;;136188/2018;2018;MP 01/092;SI;MF (Membrana Filtrante);Coliformi;;0.03;;quantitativo;
-;;136188/2018;2018;MP 01/092;SI;MF (Membrana Filtrante);Escherichia coli;;-0.73;;quantitativo;
-;;136188/2018;2018;MP 01/093;SI;MF (Membrana Filtrante);Enterococchi;;0;;quantitativo;
-;;115031/2018;2018;MP 01/145;SI;Microbiologica;Clostridium perfringens;;1.86;;quantitativo;
-;;115031/2018;2018;MP 01/102;SI;Microbiologica;Escherichia coli beta glucuronidasi positivi;;0.64;;quantitativo;
-;;115028/2018;2018;MP 01/054;SI;Microbiologica;Muffe;;-0.14;;quantitativo;
-;;115028/2018;2018;MP 01/054;SI;Microbiologica;Miceti;;-0.14;;quantitativo;
-;;115023/2018;2018;MP 01/144;SI;Microbiologica;Clostridi anaerobi solfito riduttori (spore e forme vegetative);;1.97;;quantitativo;
-;;115023/2018;2018;MP 01/144;SI;Microbiologica;Clostridi anaerobi solfito riduttori (spore);;0;;quantitativo;
-;;136188/2018;2018;MP 01/194;SI;Microbiologica a 30°C;Microrganismi;;0.55;;quantitativo;
-;;214371/2018;2018;MP 01/089;SI;Microbiologica;Stafilococchi coagulasi-positivi;;-0.19;;quantitativo;
+organizzatore	identificativo	nconf	anno	mp	provaaccredita	prova	misurando	operatore	zscore	altrocriterioorg	tipologia	tecnica 
+Lgc Standards Srl	ï¿½PT-WT-412	261713/2014	2014	MP 01/092	SI	MF (Membrana Filtrante)	Escherichia coli	Operatore 1	0.61		quantitativo	MF
+Lgc Standards Srl	ï¿½PT-WT-412	261713/2014	2014	MP 01/092	SI	MF (Membrana Filtrante)	Escherichia coli	Operatore 2	-0.25		quantitativo	MF
+Lgc Standards Srl	ï¿½PT-WT-412	261713/2014	2014	MP 01/092	SI	MF (Membrana Filtrante)	Coliformi	Operatore 1	0.42		quantitativo	MF
+Lgc Standards Srl	ï¿½PT-WT-412	261713/2014	2014	MP 01/092	SI	MF (Membrana Filtrante)	Coliformi	Operatore 2	-0.44		quantitativo	MF
+Lgc Standards Srl	ï¿½PT-WT-412	261713/2014	2014	MP 01/093	SI	MF (Membrana Filtrante)	Enterococchi	Operatore 1	0		quantitativo	MF
+Lgc Standards Srl	ï¿½PT-WT-412	261713/2014	2014	MP 01/093	SI	MF (Membrana Filtrante)	Enterococchi	Operatore 2	0.24		quantitativo	MF
+Lgc Standards Srl	ï¿½distribuzione 221	229087/2014	2014	MP 01/142	SI	Microbiologica	Bacillus cereus presunto	Operatore 1	0.3		quantitativo	microgpos
+Lgc Standards Srl	ï¿½distribuzione 221	229087/2014	2014	MP 01/142	SI	Microbiologica	Bacillus cereus presunto	Operatore 2	-0.42		quantitativo	microgpos
+Lgc Standards Srl	ï¿½distribuzione 221	229087/2014	2014	MP 01/089	SI	Microbiologica a 37ï¿½C	Stafilococchi coagulasi-positivi	Operatore 1	0.67		quantitativo	microgpos
+Lgc Standards Srl	ï¿½distribuzione 221	229087/2014	2014	MP 01/089	SI	Microbiologica a 37ï¿½C	Stafilococchi coagulasi-positivi	Operatore 2	1.08		quantitativo	microgpos
+Lgc Standards Srl	ï¿½distribuzione 221	229087/2014	2014	MP 01/111	SI	Microbiologica a 37ï¿½C	Stafilococchi coagulasi-positivi	Operatore 1	0.77		quantitativo	microgpos
+Lgc Standards Srl	ï¿½distribuzione 221	229087/2014	2014	MP 01/111	SI	Microbiologica a 37ï¿½C	Stafilococchi coagulasi-positivi	Operatore 2	0.85		quantitativo	microgpos
+Lgc Standards Srl	ï¿½distribuzione 221	229078/2014	2014	MP 01/101	SI	Microbiologica	Listeria monocytogenes	Operatore 1	0.38		quantitativo	microaltri
+Lgc Standards Srl	ï¿½distribuzione 221	229078/2014	2014	MP 01/101	SI	Microbiologica	Listeria monocytogenes	Operatore 2	0.34		quantitativo	microaltri
+Lgc Standards Srl	ï¿½PT-MC 10F	126570/2014	2014	MP 01/145	SI	Microbiologica	Clostridium perfringens	Operatore 1	0.49		quantitativo	microgpos
+Lgc Standards Srl	ï¿½PT-MC 10F	126570/2014	2014	MP 01/145	SI	Microbiologica	Clostridium perfringens	Operatore 2	0.24		quantitativo	microgpos
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/112	SI	Microbiologica a 30ï¿½C	Microrganismi	Operatore 1	0.66		quantitativo	microaltri
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/112	SI	Microbiologica a 30ï¿½C	Microrganismi	Operatore 2	1.23		quantitativo	microaltri
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/110	SI	Microbiologica	Enterobacteriaceae	Operatore 1	-0.6		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/110	SI	Microbiologica	Enterobacteriaceae	Operatore 2	-0.54		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/171	SI	Microbiologica a 37ï¿½C	Coliformi	Operatore 1	-0.38		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/171	SI	Microbiologica a 37ï¿½C	Coliformi	Operatore 2	-0.08		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/102	SI	Microbiologica	Escherichia coli beta glucuronidasi positivi	Operatore 1	-0.08		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/102	SI	Microbiologica	Escherichia coli beta glucuronidasi positivi	Operatore 2	-0.69		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/006	SI	Microbiologica a 37ï¿½C	Carica batterica aerobia mesofila	Operatore 2	0.92		quantitativo	microaltri
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/006	SI	Microbiologica a 37ï¿½C	Carica batterica aerobia mesofila	Operatore 1	0.86		quantitativo	microaltri
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/028	SI	Microbiologica a 30ï¿½C	Coliformi	Operatore 1	-0.49		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/028	SI	Microbiologica a 30ï¿½C	Coliformi	Operatore 2	-0.78		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/033	SI	Microbiologica	Escherichia coli	Operatore 1	-0.34		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/033	SI	Microbiologica	Escherichia coli	Operatore 2	-0.96		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/043	SI	Microbiologica	Enterobacteriaceae	Operatore 1	-0.18		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16F	93605/2014	2014	MP 01/043	SI	Microbiologica	Enterobacteriaceae	Operatore 2	-0.46		quantitativo	microentero
+Lgc Standards Srl	ï¿½236	333965/2015	2015	MP 01/054	SI	Microbiologica	Miceti	Operatore 1	1.29		quantitativo	microaltri
+Lgc Standards Srl	ï¿½236	333965/2015	2015	MP 01/054	SI	Microbiologica	Muffe	Operatore 1	1.3		quantitativo	microaltri
+Lgc Standards Srl	ï¿½236	333965/2015	2015	MP 01/054	SI	Microbiologica	Miceti	Operatore 2	1.29		quantitativo	microaltri
+Lgc Standards Srl	ï¿½236	333965/2015	2015	MP 01/054	SI	Microbiologica	Muffe	Operatore 2	1.3		quantitativo	microaltri
+Izsler Sezione Provinciale Di Bologna		293268/2015	2015	MP 02/073	SI	Potenziometrico	pH		-0.24		quantitativo	phaw
+Izsler Sezione Provinciale Di Bologna		293268/2015	2015	MP 02/254	SI	Punto di rugiada	Attivitï¿½ dell'acqua (Aw)		-2.16		quantitativo	phaw
+Izsler Sezione Provinciale Di Bologna		293263/2015	2015	MP 02/254	SI	Punto di rugiada	Attivitï¿½ dell'acqua (Aw)		-0.5		quantitativo	phaw
+Izsler Sezione Provinciale Di Bologna		293263/2015	2015	MP 02/073	SI	Potenziometrico	pH		0.11		quantitativo	phaw
+Lgc Standards Srl	ï¿½227	180980/2015	2015	MP 01/101	SI	Microbiologica	Listeria monocytogenes	Replica 1	0		quantitativo	microaltri
+Lgc Standards Srl	ï¿½227	180980/2015	2015	MP 01/101	SI	Microbiologica	Listeria monocytogenes	Replica 2	0.28		quantitativo	microaltri
+Lgc Standards Srl	ï¿½227	180980/2015	2015	MP 01/022	SI	MPN	Listeria monocytogenes		-0.11		quantitativo	MPN
+Lgc Standards Srl	ï¿½227	154473/2015	2015	MP 01/144	SI	Microbiologica	Clostridi anaerobi solfito riduttori (spore)	Operatore 1	0.78		quantitativo	microgpos
+Lgc Standards Srl	ï¿½227	154473/2015	2015	MP 01/144	SI	Microbiologica	Clostridi anaerobi solfito riduttori (spore)	Operatore 2	0.79		quantitativo	microgpos
+Lgc Standards Srl	ï¿½227	154473/2015	2015	MP 01/144	SI	Microbiologica	Clostridi anaerobi solfito riduttori (spore e forme vegetative)	Operatore 1	-2.07		quantitativo	microgpos
+Lgc Standards Srl	ï¿½227	154473/2015	2015	MP 01/144	SI	Microbiologica	Clostridi anaerobi solfito riduttori (spore e forme vegetative)	Operatore 2	-1.8		quantitativo	microgpos
+Lgc Standards Srl	ï¿½WT6624	123894/2015	2015	MP 01/092	SI	MF (Membrana Filtrante)	Coliformi	Operatore 2	0.26		quantitativo	MF
+Lgc Standards Srl	ï¿½WT6624	123894/2015	2015	MP 01/092	SI	MF (Membrana Filtrante)	Escherichia coli	Operatore 2	0.44		quantitativo	MF
+Lgc Standards Srl	ï¿½WT6624	123894/2015	2015	MP 01/092	SI	MF (Membrana Filtrante)	Coliformi	Operatore 1	0.08		quantitativo	MF
+Lgc Standards Srl	ï¿½WT6624	123894/2015	2015	MP 01/092	SI	MF (Membrana Filtrante)	Escherichia coli	Operatore 1	0.26		quantitativo	MF
+Lgc Standards Srl	ï¿½WT6624	123894/2015	2015	MP 01/093	SI	MF (Membrana Filtrante)	Enterococchi	Operatore 2	0.17		quantitativo	MF
+Lgc Standards Srl	ï¿½WT6624	123894/2015	2015	MP 01/093	SI	MF (Membrana Filtrante)	Enterococchi	Operatore 1	-0.04		quantitativo	MF
+Lgc Standards Srl	ï¿½PT-MC-16D	95120/2015	2015	MP 01/043	SI	Microbiologica	Enterobacteriaceae		0.6		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16D	95120/2015	2015	MP 01/028	SI	Microbiologica a 37ï¿½C	Coliformi		0.67		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16D	95120/2015	2015	MP 01/033	SI	Microbiologica	Escherichia coli		0.77		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16D	95120/2015	2015	MP 01/102	SI	Microbiologica	Escherichia coli beta glucuronidasi positivi		0.67		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16D	95120/2015	2015	MP 01/171	SI	Microbiologica a 37ï¿½C	Coliformi		0.67		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16D	95120/2015	2015	MP 01/110	SI	Microbiologica	Enterobacteriaceae		0.7		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16D	95120/2015	2015	MP 01/112	SI	Microbiologica a 30ï¿½C	Microrganismi		0.22		quantitativo	microaltri
+Lgc Standards Srl	ï¿½PT-MC-16D	95120/2015	2015	MP 01/194	SI	Microbiologica a 30ï¿½C	Microrganismi		0.17		quantitativo	microaltri
+Lgc Standards Srl	ï¿½227	71909/2015	2015	MP 01/111	SI	Microbiologica a 37ï¿½C	Stafilococchi coagulasi-positivi	Replica 2	0.43		quantitativo	microgpos
+Lgc Standards Srl	ï¿½227	71909/2015	2015	MP 01/111	SI	Microbiologica a 37ï¿½C	Stafilococchi coagulasi-positivi	Operatore 1	0.57		quantitativo	microgpos
+Lgc Standards Srl	ï¿½227	71909/2015	2015	MP 01/111	SI	Microbiologica a 37ï¿½C	Stafilococchi coagulasi-positivi	Operatore 2	0.4		quantitativo	microgpos
+Lgc Standards Srl	ï¿½227	71909/2015	2015	MP 01/089	SI	Microbiologica a 37ï¿½C	Stafilococchi coagulasi-positivi	Replica 2	0.36		quantitativo	microgpos
+Lgc Standards Srl	ï¿½227	71909/2015	2015	MP 01/089	SI	Microbiologica a 37ï¿½C	Stafilococchi coagulasi-positivi	Operatore 1	0.56		quantitativo	microgpos
+Lgc Standards Srl	ï¿½227	71909/2015	2015	MP 01/089	SI	Microbiologica a 37ï¿½C	Stafilococchi coagulasi-positivi	Operatore 2	0.36		quantitativo	microgpos
+Lgc Standards Srl	ï¿½227	71909/2015	2015	MP 01/142	SI	Microbiologica	Bacillus cereus presunto	Operatore 1	-0.15		quantitativo	microgpos
+Lgc Standards Srl	ï¿½227	71909/2015	2015	MP 01/142	SI	Microbiologica	Bacillus cereus presunto	Operatore 2	0.16		quantitativo	microgpos
+Lgc Standards Srl	ï¿½227	71909/2015	2015	MP 01/142	SI	Microbiologica	Bacillus cereus presunto	Replica 2	-0.06		quantitativo	microgpos
+Lgc Standards Srl	ï¿½PT-MC-10D	193570/2016	2016	MP 01/145	SI	Microbiologica	Clostridium perfringens		0.33		quantitativo	microgpos
+Lgc Standards Srl	ï¿½PT-MC-16F	125978/2016	2016	MP 01/093	SI	MF (Membrana Filtrante)	Enterococchi		-0.42		quantitativo	MF
+Lgc Standards Srl	ï¿½PT-MC-16F	125978/2016	2016	MP 01/092	SI	MF (Membrana Filtrante)	Coliformi		-0.17		quantitativo	MF
+Lgc Standards Srl	ï¿½PT-MC-16F	125978/2016	2016	MP 01/092	SI	MF (Membrana Filtrante)	Escherichia coli		-0.15		quantitativo	MF
+Lgc Standards Srl	ï¿½PT-MC-16F	100209/2016	2016	MP 01/194	SI	Microbiologica a 30ï¿½C	Microrganismi	Operatore 1	-0.29		quantitativo	microaltri
+Lgc Standards Srl	ï¿½PT-MC-16F	100209/2016	2016	MP 01/110	SI	Microbiologica	Enterobacteriaceae		0.73		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-16F	100209/2016	2016	MP 01/112	SI	Microbiologica a 30ï¿½C	Microrganismi		0.72		quantitativo	microaltri
+Lgc Standards Srl	ï¿½PT-MC-16F	100209/2016	2016	MP 01/171	SI	Microbiologica a 37ï¿½C	Coliformi	Operatore 1	0.85		quantitativo	microentero
+Lgc Standards Srl	ï¿½PT-MC-17F	89082/2016	2016	MP 01/089	SI	Microbiologica a 37ï¿½C	Stafilococchi coagulasi-positivi	Operatore 1	0.66		quantitativo	microgpos
+Lgc Standards Srl	ï¿½PT-MC-17F	89082/2016	2016	MP 01/111	SI	Microbiologica a 37ï¿½C	Stafilococchi coagulasi-positivi	Operatore 2	0.73		quantitativo	microgpos
+Lgc Standards Srl	ï¿½PT-MC-17F	89082/2016	2016	MP 01/142	SI	Microbiologica	Bacillus cereus presunto	Operatore 2	0		quantitativo	microgpos
+THERMO FISHER DIAGNOSTICS S.P.A.		339463/2017	2017	MP 01/171	SI	Microbiologica a 37ï¿½C	Coliformi		-0.4		quantitativo	microentero
+Izsler Sezione Provinciale Di Bologna		305285/2017	2017	MP 02/073	SI	Potenziometrico	pH		1.78		quantitativo	phaw
+Izsler Sezione Provinciale Di Bologna		305285/2017	2017	MP 02/254	SI	Punto di rugiada	Attivitï¿½ dell'acqua (Aw)		-1.28		quantitativo	phaw
+IZS ABRUZZO E MOLISE - SEDE		267043/2017	2017	MP 01/122	NO	Microbiologica	Campylobacter spp. - Conta delle colonie		0	corretto		
+IZS ABRUZZO E MOLISE - SEDE		267043/2017	2017	MP 01/122	NO	Microbiologica	Campylobacter spp. - Conta delle colonie		0	corretto		
+IZS ABRUZZO E MOLISE - SEDE		267043/2017	2017	MP 01/122	NO	Microbiologica	Campylobacter spp. - Conta delle colonie		-0.21		quantitativo	microgpos
+IZS ABRUZZO E MOLISE - SEDE		267043/2017	2017	MP 01/122	NO	Microbiologica	Campylobacter spp. - Conta delle colonie		-2.26		quantitativo	microgpos
+IZS ABRUZZO E MOLISE - SEDE		267043/2017	2017	MP 01/122	NO	Microbiologica	Campylobacter spp. - Conta delle colonie		-1.08		quantitativo	microgpos
+IZS ABRUZZO E MOLISE - SEDE		267043/2017	2017	MP 01/122	NO	Microbiologica	Campylobacter spp. - Conta delle colonie		-1.93		quantitativo	microgpos
+IZS ABRUZZO E MOLISE - SEDE		267043/2017	2017	MP 01/122	NO	Microbiologica	Campylobacter spp. - Conta delle colonie		-2.09		quantitativo	microgpos
+IZS ABRUZZO E MOLISE - SEDE		267043/2017	2017	MP 01/122	NO	Microbiologica	Campylobacter spp. - Conta delle colonie		-0.48		quantitativo	microgpos
+IZS ABRUZZO E MOLISE - SEDE		267043/2017	2017	MP 01/122	NO	Microbiologica	Campylobacter spp. - Conta delle colonie		-2.32		quantitativo	microgpos
+IZS ABRUZZO E MOLISE - SEDE		267043/2017	2017	MP 01/122	NO	Microbiologica	Campylobacter spp. - Conta delle colonie		0	corretto		
+IZS ABRUZZO E MOLISE - SEDE		267043/2017	2017	MP 01/122	NO	Microbiologica	Campylobacter spp. - Conta delle colonie		0	corretto		
+IZS ABRUZZO E MOLISE - SEDE		267043/2017	2017	MP 01/122	NO	Microbiologica	Campylobacter spp. - Conta delle colonie		0.24		quantitativo	microgpos
+THERMO FISHER DIAGNOSTICS S.P.A.		211580/2017	2017	MP 01/142	SI	Microbiologica	Bacillus cereus presunto		-0.57		quantitativo	microgpos
+THERMO FISHER DIAGNOSTICS S.P.A.		211580/2017	2017	MP 01/111	SI	Microbiologica a 37ï¿½C	Stafilococchi coagulasi-positivi		0.21		quantitativo	microgpos
+THERMO FISHER DIAGNOSTICS S.P.A.		211580/2017	2017	MP 01/171	SI	Microbiologica a 30ï¿½C	Coliformi		-3.11		quantitativo	microentero
+THERMO FISHER DIAGNOSTICS S.P.A.		211580/2017	2017	MP 01/089	SI	Microbiologica a 37ï¿½C	Stafilococchi coagulasi-positivi		-0.07		quantitativo	microgpos
+THERMO FISHER DIAGNOSTICS S.P.A.		211580/2017	2017	MP 01/101	SI	Microbiologica	Listeria monocytogenes		-1.25		quantitativo	microaltri
+THERMO FISHER DIAGNOSTICS S.P.A.		161224/2017	2017	MP 01/110	SI	Microbiologica	Enterobacteriaceae		0.23		quantitativo	microentero
+THERMO FISHER DIAGNOSTICS S.P.A.		161224/2017	2017	MP 01/112	SI	Microbiologica a 30ï¿½C	Microrganismi		0.01		quantitativo	microaltri
+THERMO FISHER DIAGNOSTICS S.P.A.		161224/2017	2017	MP 01/194	SI	Microbiologica a 30ï¿½C	Microrganismi		-0.08		quantitativo	microaltri
+THERMO FISHER DIAGNOSTICS S.P.A.		161224/2017	2017	MP 01/122		Microbiologica	Campylobacter spp. - Conta delle colonie		0.77		quantitativo	microgpos
+THERMO FISHER DIAGNOSTICS S.P.A.		161208/2017	2017	MP 01/144	SI	Microbiologica	Clostridi anaerobi solfito riduttori (spore e forme vegetative)		0.98		quantitativo	microgpos
+THERMO FISHER DIAGNOSTICS S.P.A.		161208/2017	2017	MP 01/144	SI	Microbiologica	Clostridi anaerobi solfito riduttori (spore)		0.52		quantitativo	microgpos
+PUBLIC HEALTH ENGLAND - PHE	ï¿½W175	134226/2017	2017	MP 01/092	SI	MF (Membrana Filtrante)	Coliformi		-0.18		quantitativo	MF
+PUBLIC HEALTH ENGLAND - PHE	ï¿½W175	134226/2017	2017	MP 01/092	SI	MF (Membrana Filtrante)	Escherichia coli		-0.18		quantitativo	MF
+PUBLIC HEALTH ENGLAND - PHE	ï¿½W175	134226/2017	2017	MP 01/093	SI	MF (Membrana Filtrante)	Enterococchi		-0.09		quantitativo	MF
+PUBLIC HEALTH ENGLAND - PHE	ï¿½W175	134226/2017	2017	MP 01/091		Microbiologica a 22ï¿½C	Microrganismi		0.05		quantitativo	microaltri
+PUBLIC HEALTH ENGLAND - PHE	ï¿½W175	134226/2017	2017	MP 01/091		Microbiologica a 36ï¿½C	Microrganismi		0.06		quantitativo	microaltri
+THERMO FISHER DIAGNOSTICS S.P.A.		112791/2017	2017	MP 01/145	SI	Microbiologica	Clostridium perfringens		0		quantitativo	microgpos
+THERMO FISHER DIAGNOSTICS S.P.A.		112791/2017	2017	MP 01/102	SI	Microbiologica	Escherichia coli beta glucuronidasi positivi		-0.3		quantitativo	microentero
+THERMO FISHER DIAGNOSTICS S.P.A.		112788/2017	2017	MP 01/054	SI	Microbiologica	Miceti		1.02		quantitativo	microaltri
+THERMO FISHER DIAGNOSTICS S.P.A.		112788/2017	2017	MP 01/054	SI	Microbiologica	Muffe		1.02		quantitativo	microaltri
+		214371/2018	2018	MP 01/111	SI	Microbiologica	Stafilococchi coagulasi-positivi		-0.1		quantitativo	
+		214371/2019	2018	MP 01/101	SI	Microbiologica	Listeria monocytogenes		0.59		quantitativo	
+		214371/2020	2018	MP 01/142	SI	Microbiologica	Bacillus cereus presunto		-0.45		quantitativo	
+		214371/2021	2018	MP 01/171	SI	Microbiologica	Coliformi		-0.68		quantitativo	
+		290084/2018	2018	MP 01/081	SI	Microbiologica	Listeria monocytogenes		0		qualitativa	
+		290084/2018	2018	MP 09/134	SI	Microbiologica	Listeria monocytogenes		0		qualitativa-PCR	
+		156349/2018	2018	MP 01/122	SI	Microbiologica	Campylobacter spp. - Conta delle colonie		-0.14		quantitativo	
+		156349/2018	2018	MP 01/112	SI	Microbiologica	Microrganismi		0.44		quantitativo	
+		156349/2018	2018	MP 01/110	SI	Microbiologica	Enterobacteriaceae		0.09		quantitativo	
+		156349/2018	2018	MP 01/080	SI	Microbiologica	Salmonella 		0		qualitativa	
+		156349/2018	2018	MP 09/133	SI	Microbiologica	Salmonella 		0		qualitativa-PCR	
+		156349/2018	2018	MP 01/113	SI	Microbiologica	Campylobacter spp		0		qualitativa	
+		156349/2018	2018	MP 09/135	SI	Microbiologica	Campylobacter spp		0		qualitativa-PCR	
+		136188/2018	2018	MP 01/091	SI	Microbiologica a 22ï¿½C	Microrganismi		0.03		quantitativo	
+		136188/2018	2018	MP 01/091	SI	Microbiologica a 36ï¿½C	Microrganismi		0.5		quantitativo	
+		136188/2018	2018	MP 01/092	SI	MF (Membrana Filtrante)	Coliformi		0.03		quantitativo	
+		136188/2018	2018	MP 01/092	SI	MF (Membrana Filtrante)	Escherichia coli		-0.73		quantitativo	
+		136188/2018	2018	MP 01/093	SI	MF (Membrana Filtrante)	Enterococchi		0		quantitativo	
+		115031/2018	2018	MP 01/145	SI	Microbiologica	Clostridium perfringens		1.86		quantitativo	
+		115031/2018	2018	MP 01/102	SI	Microbiologica	Escherichia coli beta glucuronidasi positivi		0.64		quantitativo	
+		115028/2018	2018	MP 01/054	SI	Microbiologica	Muffe		-0.14		quantitativo	
+		115028/2018	2018	MP 01/054	SI	Microbiologica	Miceti		-0.14		quantitativo	
+		115023/2018	2018	MP 01/144	SI	Microbiologica	Clostridi anaerobi solfito riduttori (spore e forme vegetative)		1.97		quantitativo	
+		115023/2018	2018	MP 01/144	SI	Microbiologica	Clostridi anaerobi solfito riduttori (spore)		0		quantitativo	
+		136188/2018	2018	MP 01/194	SI	Microbiologica a 30ï¿½C	Microrganismi		0.55		quantitativo	
+		214371/2018	2018	MP 01/089	SI	Microbiologica	Stafilococchi coagulasi-positivi		-0.19		quantitativo	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.322	338014/2019	2019	MP 01/144	SI	Microbiologica	Clostridi anaerobi solfito riduttori (spore e forme vegetative)		0.46		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.320	272549/2019	2019	MP 01/142	SI	Microbiologica	Bacillus cereus presunto		0.22		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.320	272549/2019	2019	MP 01/112	SI	Microbiologica a 30Â°C	Microrganismi		0.68		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.320	272549/2019	2019	MP 01/101	SI	Microbiologica	Listeria spp.		1.29		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.320	272549/2019	2019	MP 01/101	SI	Microbiologica	Listeria monocytogenes		1.15		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.320	272549/2019	2019	MP 01/194	SI	Microbiologica a 30Â°C	Microrganismi		0.54		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.320	272549/2019	2019	MP 01/089	SI	Microbiologica a 37Â°C	Stafilococchi coagulasi-positivi		0.38		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.320	272549/2019	2019	MP 01/022	SI	MPN	Listeria monocytogenes		0	corretto	qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.320	272549/2019	2019	MP 01/171	SI	Microbiologica a 37Â°C	Coliformi		0.29		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.320	272549/2019	2019	MP 01/111	SI	Microbiologica a 37Â°C	Stafilococchi coagulasi-positivi		0.95		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.318	199282/2019	2019	MP 09/135	SI	PCR Real Time	Campylobacter spp.		0	Corretto	qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.318	199282/2019	2019	MP 01/080	SI	Microbiologica	Salmonella spp.		0	corretto	qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.318	199282/2019	2019	MP 01/194	SI	Microbiologica a 30Â°C	Microrganismi		-0.72		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.318	199282/2019	2019	MP 01/122	SI	Microbiologica	Campylobacter spp. - Conta delle colonie		-1.93		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.318	199282/2019	2019	MP 01/110	SI	Microbiologica a 37Â°C	Enterobacteriaceae		0.60		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.318	199282/2019	2019	MP 01/113	SI	Microbiologica	Campylobacter spp.		0	Corretto	qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.318	199282/2019	2019	MP 09/133	SI	PCR Real Time	Salmonella spp.		0	Corretto	qualitativa	
+PUBLIC HEALTH ENGLAND - PHE	Â DISTRIBUTION N.318	199282/2019	2019	MP 01/112	SI	Microbiologica a 30Â°C	Microrganismi		-0.72		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE		172521/2019	2019	MP 01/091		Microbiologica a 22Â°C	Microrganismi		0.25		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE		172521/2019	2019	MP 01/092	SI	MF (Membrana Filtrante)	Escherichia coli		-0.48		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE		172521/2019	2019	MP 01/092	SI	MF (Membrana Filtrante)	Coliformi		0.12		qualitativa	
+PUBLIC HEALTH ENGLAND - PHE		172521/2019	2019	MP 01/093	SI	MF (Membrana Filtrante)	Enterococchi		0	Corretto	qualitativa	
+PUBLIC HEALTH ENGLAND - PHE		172521/2019	2019	MP 01/091		Microbiologica a 36Â°C	Microrganismi		0.18		qualitativa	
+THERMO FISHER DIAGNOSTICS S.P.A.	Â ordine cliente n.2018/481	151000/2019	2019	MP 01/147		Microbiologica	Lieviti		0	corretto	qualitativa	
+THERMO FISHER DIAGNOSTICS S.P.A.	Â ordine cliente n.2018/481	151000/2019	2019	MP 01/200		Microbiologica	Pseudomonas spp. presunto		0	corretto	qualitativa	
+THERMO FISHER DIAGNOSTICS S.P.A.	Â ordine cliente n.2018/481	151000/2019	2019	MP 01/147		Microbiologica	Muffe		0.28		qualitativa	
+THERMO FISHER DIAGNOSTICS S.P.A.	Â ordine cliente n.2018/481	151000/2019	2019	MP 01/146		Microbiologica	Muffe		0.35		qualitativa	
+THERMO FISHER DIAGNOSTICS S.P.A.	Â ordine cliente n.2018/481	151000/2019	2019	MP 01/146		Microbiologica	Lieviti		0	corretto	qualitativa	
+THERMO FISHER DIAGNOSTICS S.P.A.	Â ordine cliente n.2018/481	151000/2019	2019	MP 01/154		Microbiologica	Pseudomonas spp.		0	corretto	qualitativa	
+THERMO FISHER DIAGNOSTICS S.P.A.	Â ordine cliente n.2018/481	151000/2019	2019	MP 01/054	SI	Microbiologica	Lieviti		0	corretto	qualitativa	
+THERMO FISHER DIAGNOSTICS S.P.A.	Â ordine cliente n.2018/481	151000/2019	2019	MP 01/054	SI	Microbiologica	Miceti		0.04		qualitativa	
+THERMO FISHER DIAGNOSTICS S.P.A.	Â ordine cliente n.2018/481	151000/2019	2019	MP 01/054	SI	Microbiologica	Muffe		0.04		qualitativa	
+THERMO FISHER DIAGNOSTICS S.P.A.	Â ordine cliente n.2018/481	134155/2019	2019	MP 01/102	SI	Microbiologica	Escherichia coli beta glucuronidasi positivi		0.11		qualitativa	
+THERMO FISHER DIAGNOSTICS S.P.A.	Â ordine cliente n.2018/481	134155/2019	2019	MP 01/145	SI	Microbiologica	Clostridium perfringens		0.75		qualitativa	
+THERMO FISHER DIAGNOSTICS S.P.A.	Â ordine cliente n.2018/481	134155/2019	2019	MP 01/081	SI	Microbiologica	Listeria monocytogenes		0	corretto	qualitativa	
+Izsler Sezione Provinciale Di Bologna		421213/2019	2019	MP 02/073	SI	Potenziometrico	pH		-0.61		quantitativo	phaw
+Izsler Sezione Provinciale Di Bologna		411213/2019	2019	MP 02/254	SI	Punto di rugiada	Attivitï¿½ dell'acqua (Aw)		0.19		quantitativo	phaw
