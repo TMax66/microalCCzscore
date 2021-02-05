@@ -1,6 +1,8 @@
   
-library(shiny)
-
+library("shiny")
+library("tidyverse")
+library("readxl")
+library("hrbrthemes")
 
 ui <- fluidPage(
   titlePanel("Microbiologia Alimenti: Carte di controllo Proficiency Test"),
@@ -44,18 +46,18 @@ server <- function(input, output) {
   library(ggplot2)
   Sys.setlocale("LC_ALL", "C")
   output$ncplot <- renderPlot({
-    df<- dati <- read.delim("dati.csv")
-    x<-aggregate(df$zscore, list("anno"=df$anno,"mp"=df$mp), mean)
-    x$anno<-factor(x$anno)
-    names(x)[3]<-"zscore"
-    
-    ggplot(x[x$mp==input$mp,], aes(anno,zscore, group=1))+geom_point(fill='steelblue')+
+    df<- read_excel("dati.xlsx")
+    df <- df %>% 
+      group_by(anno, mp) %>% 
+      summarise(zscore= mean(zscore, na.rm= TRUE)) %>% 
+      filter(mp == input$mp)  
+    ggplot(df, aes(anno,zscore, group=1))+geom_point()+
       scale_y_continuous(breaks = c(-3,-2,-1,0,1,2,3))+
       geom_line(linetype=1,size=0.2)+ggtitle(input$mp)+
-      geom_hline(yintercept=c(-3,-2,0,2,3), col='red', size=0.1)
+      geom_hline(yintercept=c(-3,-2,-1,0,1,2,3), col='red', size=0.2, alpha=0.6)+
+      theme_ipsum_rc()
+   
     })
-  
-  
  }
 
 # Run the application 
