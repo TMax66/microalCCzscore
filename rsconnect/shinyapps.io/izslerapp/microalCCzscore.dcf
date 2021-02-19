@@ -5,8 +5,8 @@ account: izslerapp
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2488407
-bundleId: 4184237
+bundleId: 4244944
 url: https://izslerapp.shinyapps.io/microalCCzscore/
-when: 1612518740.06152
+when: 1613739916.78689
 asMultiple: FALSE
 asStatic: FALSE
