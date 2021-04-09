@@ -13,7 +13,7 @@ sidebarLayout(
       helpText(""),
 
       selectInput("s", label="Sede", 
-                  choices = c("Sede Territoriale di Bergamo", "Sede Territoriale di Sondrio"), selected= ""), 
+                  choices = c("Sede Territoriale di Bergamo", "Sede Territoriale di Sondrio", "Sede Territoriale di Binago"), selected= ""), 
       
       selectInput("mp",
                   label = "MMPP",
@@ -47,10 +47,12 @@ server <- function(input, output) {
                                                 "text", "text", "text", "numeric", "text", 
                                                 "text", "text", "text"))
     df %>% 
+      mutate(mp = substr(mp, 1,9)) %>% 
       filter(sede == input$s) %>%
       group_by(anno, mp) %>% 
       summarise(zscore= mean(zscore, na.rm= TRUE)) %>% 
       filter(mp == input$mp)  %>% 
+      mutate(anno = factor(anno)) %>% 
     ggplot(aes(anno,zscore, group=1))+geom_point()+
       scale_y_continuous(breaks = c(-3,-2,-1,0,1,2,3))+
       geom_line(linetype=1,size=0.2)+ggtitle(input$mp)+
