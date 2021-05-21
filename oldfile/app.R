@@ -1,8 +1,5 @@
   
-library("shiny")
-library("tidyverse")
-library("readxl")
-library("hrbrthemes")
+
 
 ui <- fluidPage(
   titlePanel("Microbiologia Alimenti: Carte di controllo Proficiency Test"),
@@ -24,6 +21,12 @@ sidebarLayout(
                               "MP 01/154", "MP 01/171", "MP 01/182", "MP 01/194", "MP 01/200", 
                               "MP 02/073", "MP 02/254", "MP 01/107"),
                   selected = ""),
+      a(actionButton("Ins", "Inserimento nuovi dati",
+                     class = "btn-primary",
+                     icon("flask")),
+        href="https://docs.google.com/spreadsheets/d/19pOyKa7_SYLWbYeuUI6GPjeHpvbXslXoEPE9ZEC0wRk/edit?usp=sharing")
+      
+      
       ),
     mainPanel("",
               fluidRow(
@@ -33,7 +36,7 @@ sidebarLayout(
   )
 
 
-# Define server logic required to draw a histogram
+
 server <- function(input, output) {
   
 

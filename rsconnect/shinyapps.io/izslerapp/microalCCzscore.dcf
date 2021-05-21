@@ -5,9 +5,10 @@ account: izslerapp
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2488407
-bundleId: 4450617
+bundleId: 4623810
 url: https://izslerapp.shinyapps.io/microalCCzscore/
-when: 1617974129.59072
+when: 1621594882.76131
+lastSyncTime: 1621594882.76131
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: datiold.xlsx
+ignoredFiles: datiold.xlsx|oldfile/app.R
